@@ -8,4 +8,4 @@ The primary objective of this analysis is to understand the current demand for d
 Data Processing
 The analysis was conducted using PostgreSQL, where I employed SQL queries to extract, filter, and aggregate data related to job postings. Key metrics such as job demand, salary distribution, and required skills were analyzed to provide a comprehensive view of the data science and data analysis job market.
 
-![Skill Demand Chart](path/to/skill_demand_chart.png)
+![Skill Demand Chart](path/to/visual_postgres/skill_demand_chart.png)
