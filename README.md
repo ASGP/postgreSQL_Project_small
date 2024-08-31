@@ -1,4 +1,4 @@
-Data Science and Data Analysis Jobs Market Analysis
+**Data Science and Data Analysis Jobs Market Analysis**
 
 This project involves analyzing a job market dataset using PostgreSQL, with a specific focus on data science and data analysis roles. The goal of this analysis is to uncover trends related to job demand, salary ranges, and other relevant metrics for these roles.
 
