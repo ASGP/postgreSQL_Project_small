@@ -11,10 +11,6 @@ The analysis was conducted using PostgreSQL, where I employed SQL queries to ext
 ![Skill Demand Chart](visual_postgres/skill_demand_chart.png)
 
 
-Here’s a concise addition to your GitHub README that incorporates the result set:
-
----
-
 ## Top Skills and Average Salaries
 
 This project highlights some of the top in-demand technical skills in the job market, along with their corresponding average salaries. Mastery of these skills can lead to highly competitive compensation across various industries.
