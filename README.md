@@ -38,4 +38,32 @@ This project highlights some of the top in-demand technical skills in the job ma
 - **Watson** and **Couchbase** highlight the demand for AI and NoSQL database expertise, both with identical average salaries.
 - **Pandas** and **Jupyter** are crucial for data analysis and scientific computing, showing their continued relevance in the data science space.
 
+Here are the most important points to include in your README:
+
+---
+## Job Listings and Average Salaries
+
+- **Highest Salary**: The role of *PAID Data Scientist Intern* in Sudan offers the highest salary of $40,000, posted by Patterned Learning AI.
+- **Variety of Roles**: Positions range from *Data Analyst* to *Head of Data*, reflecting a broad spectrum of data-related job titles.
+- **Global Opportunities**: These jobs are spread across countries like the United States, South Korea, Sudan, Malta, and Macedonia, with remote working options.
+- **Job Types**: Most roles are full-time, with one notable contractor position for a *Data Analyst* in Malta.
+
+
+
+## The following table provides an overview of high-paying data science roles, their required skills, and other relevant details:
+
+| Job ID   | Job Title                               | Location    | Country        | Salary ($/Year) | Posted Date | Schedule   | Company Name        | Skills                             |
+|----------|-----------------------------------------|-------------|----------------|-----------------|-------------|------------|---------------------|------------------------------------|
+| 40145    | Staff Data Scientist/Quant Researcher   | Anywhere    | United States  | 550,000         | 2023-08-16  | Full-time  | Selby Jennings      | SQL, Python                        |
+| 1714768  | Staff Data Scientist - Business Analytics | Anywhere    | United States  | 525,000         | 2023-09-01  | Full-time  | Selby Jennings      | SQL                                |
+| 1131472  | Data Scientist                          | Anywhere    | United States  | 375,000         | 2023-07-31  | Full-time  | Algo Capital Group  | SQL, Python, Java, Cassandra, Spark, Hadoop, Tableau |
+
+ *Key Insights*:
+- **Highest Salaries**: The *Staff Data Scientist/Quant Researcher* and *Staff Data Scientist - Business Analytics* roles offer the highest annual salaries, reflecting their high demand and specialized nature.
+- **Skills in Demand**: Common skills required include *SQL*, *Python*, and *Data Tools* like *Spark* and *Tableau*.
+- **Consistent Role**: *Data Scientist* roles are prevalent, indicating a strong market demand for this position.
+- **Full-Time Opportunities**: All positions are full-time, indicating stability in job scheduling.
+
+
+
 
