@@ -50,11 +50,21 @@ This project highlights some of the top in-demand technical skills in the job ma
 
 ## The following table provides an overview of high-paying data science roles, their required skills, and other relevant details:
 
+
+
 | Job ID   | Job Title                               | Location    | Country        | Salary ($/Year) | Posted Date | Schedule   | Company Name        | Skills                             |
 |----------|-----------------------------------------|-------------|----------------|-----------------|-------------|------------|---------------------|------------------------------------|
-| 40145    | Staff Data Scientist/Quant Researcher   | Anywhere    | United States  | 550,000         | 2023-08-16  | Full-time  | Selby Jennings      | SQL, Python                        |
+| 40145    | Staff Data Scientist/Quant Researcher   | Anywhere    | United States  | 550,000         | 2023-08-16  | Full-time  | Selby Jennings      | SQL                                |
+| 40145    | Staff Data Scientist/Quant Researcher   | Anywhere    | United States  | 550,000         | 2023-08-16  | Full-time  | Selby Jennings      | Python                             |
 | 1714768  | Staff Data Scientist - Business Analytics | Anywhere    | United States  | 525,000         | 2023-09-01  | Full-time  | Selby Jennings      | SQL                                |
-| 1131472  | Data Scientist                          | Anywhere    | United States  | 375,000         | 2023-07-31  | Full-time  | Algo Capital Group  | SQL, Python, Java, Cassandra, Spark, Hadoop, Tableau |
+| 1131472  | Data Scientist                          | Anywhere    | United States  | 375,000         | 2023-07-31  | Full-time  | Algo Capital Group  | SQL                                |
+| 1131472  | Data Scientist                          | Anywhere    | United States  | 375,000         | 2023-07-31  | Full-time  | Algo Capital Group  | Python                             |
+| 1131472  | Data Scientist                          | Anywhere    | United States  | 375,000         | 2023-07-31  | Full-time  | Algo Capital Group  | Java                                |
+| 1131472  | Data Scientist                          | Anywhere    | United States  | 375,000         | 2023-07-31  | Full-time  | Algo Capital Group  | Cassandra                           |
+| 1131472  | Data Scientist                          | Anywhere    | United States  | 375,000         | 2023-07-31  | Full-time  | Algo Capital Group  | Spark                               |
+| 1131472  | Data Scientist                          | Anywhere    | United States  | 375,000         | 2023-07-31  | Full-time  | Algo Capital Group  | Hadoop                              |
+| 1131472  | Data Scientist                          | Anywhere    | United States  | 375,000         | 2023-07-31  | Full-time  | Algo Capital Group  | Tableau                             |
+
 
  *Key Insights*:
 - **Highest Salaries**: The *Staff Data Scientist/Quant Researcher* and *Staff Data Scientist - Business Analytics* roles offer the highest annual salaries, reflecting their high demand and specialized nature.
