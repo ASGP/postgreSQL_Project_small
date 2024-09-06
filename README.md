@@ -1,4 +1,4 @@
-### Data Science and Data Analysis Jobs Market Analysis
+# Data Science and Data Analysis Jobs Market Analysis
 
 This project involves analyzing a job market dataset using PostgreSQL, with a specific focus on data science and data analysis roles. The goal of this analysis is to uncover trends related to job demand, salary ranges, and other relevant metrics for these roles.
 
@@ -15,7 +15,7 @@ Here’s a concise addition to your GitHub README that incorporates the result s
 
 ---
 
-# Top Skills and Average Salaries
+## Top Skills and Average Salaries
 
 This project highlights some of the top in-demand technical skills in the job market, along with their corresponding average salaries. Mastery of these skills can lead to highly competitive compensation across various industries.
 
