@@ -38,9 +38,7 @@ This project highlights some of the top in-demand technical skills in the job ma
 - **Watson** and **Couchbase** highlight the demand for AI and NoSQL database expertise, both with identical average salaries.
 - **Pandas** and **Jupyter** are crucial for data analysis and scientific computing, showing their continued relevance in the data science space.
 
-Here are the most important points to include in your README:
 
----
 ## Job Listings and Average Salaries
 
 - **Highest Salary**: The role of *PAID Data Scientist Intern* in Sudan offers the highest salary of $40,000, posted by Patterned Learning AI.
